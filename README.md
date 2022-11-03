@@ -2,7 +2,7 @@
 
 # Merge Super - Nhím Siêu Tốc Độ
 
-- **_Engine/Framework/Library_**: Vanilla Js
+- **_Engine/Framework/Library_**: PlayCanvas Engine v1.55.0
 - **_Ad Network_**: Mintegral, Ironsource, Unity, Applovin, Google, Pangle, Vungle, Facebook, Adcolony, TikTok...
 - _Single HTML file_
 
